@@ -38,15 +38,17 @@
     <link rel="stylesheet" href="./assets/css/dark_mode.css">
 
     <script>
-	tailwind.config = {
-		theme: {
-			extend: {
-				colors: {
-					color1: '#701198',
-					color2: '#76b23f',
-				}
-			}
-		}
-	}
-</script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        color1: '#701198',
+                        color2: '#76b23f',
+                        color3:'#39ff14',
+                        color4:'#35007c',
+                    }
+                }
+            }
+        }
+    </script>
 </head>

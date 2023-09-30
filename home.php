@@ -10,6 +10,7 @@
 <body>
     <?php include './components/navbar.php' ?>
     <?php include './components/banner.php' ?>
+    <?php include './components/quem-somos.php' ?>
     <?php include './components/video.php' ?>
     <?php include './components/contato.php' ?>
     <?php include './components/services.php' ?>

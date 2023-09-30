@@ -1,5 +1,5 @@
     <section class="bg-color1">
-        <div class="max-w-full px-4 pt-10 mx-auto lg:grid grid-cols-2">
+        <div class="max-w-full px-4 pt-24 mx-auto lg:grid grid-cols-2">
             <div class="lg:flex justify-center items-center hidden py-2 px-2">
                 <img src="./assets/img/hero.png" alt="hero image" class="w-full px-5 ml-24">
             </div>
@@ -34,8 +34,8 @@
                         <textarea name="description" id="description" rows="2" cols="50"  class="mt-2 mb-4 w-full rounded-full p-3 border border-gray-300 text-gray-900"></textarea>
                     </div>
                     <input type="hidden" value="CONTATO" name="type">
-                    <div class="mt-2">
-                        <input type="submit" class="my-2 w-full cursor-pointer rounded-full bg-color3 py-3 px-6 font-medium  text-black duration-300 ease-in-out hover:bg-color2" value="Enviar">
+                    <div class="mt-2 flex justify-center items-center">
+                        <input type="submit" class="my-2 w-full cursor-pointer rounded-full bg-color3 py-2 px-4 font-medium text-black duration-300 ease-in-out hover:bg-color2" value="Enviar">
                     </div>
                 </form>
             </div>

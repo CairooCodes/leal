@@ -1,14 +1,20 @@
 <section class="bg-white">
     <div class="max-w-screen-xl px-4 py-4 mx-auto lg:py-16 lg:px-6">
         <div>
-            <h1 class="font-bold text-6xl text-color4 text-center px-2">MELHOR AGÊNCIA DE MARKETING DIGITAL EM TERESINA</h1>
-            <div class="grid grid-cols-2">
-                <div class="mt-16">
-                    <p class="text-color1 text-justify">Novos tempos, novos desafios, requerem novas atitudes, mudanças que precisam ser feitas para um ajuste às demandas do mundo atual, tanto na vida pessoal como na profissional. Para fazer frente a esses novos desafios que surgem a cada dia, empresas estão se adaptando e buscando ajuda para continuarem atuantes e crescendo. Com esta decisão, é importante ir em busca da <span class="font-bold text-color1">Melhor Agência de Marketing Digital em Teresina</span>, que saiba como dar o destaque que sua empresa precisa no cenário digital.</p>
+            <h1 class="font-bold text-5xl text-color4 text-center px-2">MELHOR AGÊNCIA DE MARKETING DIGITAL EM TERESINA</h1>
+            <div class="flex justify-center items-center">
+                <div class="mt-16 w-3/4">
+                    <p class="text-color1 text-justify">
+                        Novos tempos, novos desafios, requerem novas atitudes, mudanças que precisam ser feitas para um ajuste às demandas do mundo atual, tanto na vida pessoal como na profissional. Para fazer frente a esses novos desafios que surgem a cada dia, empresas estão se adaptando e buscando ajuda para continuarem atuantes e crescendo. Com esta decisão, é importante ir em busca da <span class="font-bold text-color1">Melhor Agência de Marketing Digital em Teresina</span>, que saiba como dar o destaque que sua empresa precisa no cenário digital.
+                    </p>
                     <br>
-                    <p class="text-color1 text-justify">Só com a Digitall Evolution, a <span class="font-bold text-color1">Melhor Agência de Marketing Digital em Teresina</span> você tem acesso aos melhores serviços e soluções do marketing digital, para poder ajudar com todos os objetivos que você tem para sua empresa, sejam eles de crescimento, expansão ou divulgação.</p>
+                    <p class="text-color1 text-justify">
+                        Só com a Leal Comunicação & Marketing, a <span class="font-bold text-color1">Melhor Agência de Marketing Digital em Teresina</span> você tem acesso aos melhores serviços e soluções do marketing digital, para poder ajudar com todos os objetivos que você tem para sua empresa, sejam eles de crescimento, expansão ou divulgação.
+                    </p>
                 </div>
-                <img src="./assets/img/Marketing-Digital.png" alt="Marketing-Digital" class="flex items-center justify-center w-full">
+                <div class="w-full hidden">
+                    <img src="./assets/img/Marketing-Digital.png" alt="Marketing-Digital" class="flex items-center justify-center w-full">
+                </div>
             </div>
         </div>
     </div>

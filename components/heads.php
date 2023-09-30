@@ -46,6 +46,7 @@
                         color2: '#76b23f',
                         color3:'#39ff14',
                         color4:'#35007c',
+                        color5:'#A9D31A',
                     }
                 }
             }

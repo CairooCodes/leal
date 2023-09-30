@@ -24,9 +24,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 1px solid #ddd;
   padding: 20px;
   text-align: center;
+  font-size: 18px;
 }
 
 .grid-item img {
@@ -45,12 +45,15 @@ body {
 }
 
 .saiba-mais-button {
-  margin-top: 10px;
-  background-color: #007bff;
+  margin-top: 30px;
+  background-color: #a9d023;
+  box-shadow: 0 3px 6px #00000029;
   color: white;
   border: none;
-  padding: 8px 16px;
+  padding: 5px 18px;
   cursor: pointer;
-  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 700;
+  border-radius: 10px;
 }
 

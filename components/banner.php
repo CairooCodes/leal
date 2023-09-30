@@ -1,7 +1,7 @@
     <section class="bg-color1">
         <div class="max-w-full px-4 pt-24 mx-auto lg:grid grid-cols-2">
             <div class="lg:flex justify-center items-center hidden py-2 px-2">
-                <img src="./assets/img/hero.png" alt="hero image" class="w-full px-5 ml-24">
+                <img src="./assets/img/marketing.png" alt="hero image" class="w-full px-5 ml-24 mt-20">
             </div>
             <div class="mx-auto">
                 <form action="./admin/controllers/add_lead.php" method="post" class="mr-auto lg:p-16 place-self-center">

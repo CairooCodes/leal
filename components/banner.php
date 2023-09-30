@@ -5,7 +5,7 @@
             </div>
             <div class="mx-auto">
                 <form action="./admin/controllers/add_lead.php" method="post" class="mr-auto lg:p-16 place-self-center">
-                    <h2 class="flex justify-center md:text-left text-3xl font-bold text-white">Dúvidas?</h2>
+                    <h2 class="flex justify-center md:text-left text-6xl font-bold text-white">Dúvidas?</h2>
                     <p class="my-4 text-white text-center font-semibold">
                         Preencha abaixo para conversar com a nossa equipe de especialistas em Marketing Digital!
                     </p>

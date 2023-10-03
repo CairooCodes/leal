@@ -1,10 +1,10 @@
-<section style="background-color: #EFEFEF;">
+<section class="bg-gray-200">
     <div class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
         <div class="container">
         <div class="flex justify-center">
             <h1 class="text-4xl text-color5 font-medium text-center mb-10">As soluções que você estava buscando</h1>
         </div>
-            <div class="grid-container">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <div class="grid-item">
                     <img src="./assets/img/solu-02.webp" alt="Imagem 2" style="margin: 20px">
                     <strong>SEO Avançado</strong>

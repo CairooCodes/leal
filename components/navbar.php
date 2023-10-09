@@ -2,7 +2,7 @@
     <nav class="border-gray-200 py-2.5">
         <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
             <a href="#" class="flex items-center justify-center">
-                <img src="./assets/img/Logo_Leal Comunicacao 2023.png" class="h-6 mr-3 sm:h-9" alt="Logo_Leal Comunicacao 2023">
+                <img src="./assets/img/Logo_Leal.png" class="h-6 mr-3 sm:h-9" alt="Logo_Leal Comunicacao 2023">
             </a>
             <div class="flex items-center lg:order-2">
                 <a href="./admin/login.php" class="text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 sm:mr-2 lg:mr-0">Entrar</a>

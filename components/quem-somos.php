@@ -1,4 +1,4 @@
-<section class="bg-white">
+<section class="bg-white" id="quemsomos">
     <div class="max-w-screen-xl px-4 py-4 mx-auto lg:py-16 lg:px-6">
         <div>
             <h1 class="font-bold text-5xl text-color4 text-center px-2">MELHOR AGÊNCIA DE MARKETING DIGITAL EM TERESINA</h1>

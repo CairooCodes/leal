@@ -10,10 +10,8 @@
 <body>
     <?php include './components/navbar.php' ?>
     <?php include './components/banner.php' ?>
-    <!-- <?php include './components/quem-somos.php' ?> -->
+    <?php include './components/quem-somos.php' ?>
     <?php include './components/video.php' ?>
-    <!-- <?php include './components/quem-somos2.php' ?> -->
-    <!-- <?php include './components/services.php' ?> -->
     <?php include './components/footer.php' ?>
 
     <script src="assets/js/dark_mode.js"></script>

@@ -5,7 +5,7 @@
                 <div class="flex flex-col">
                     <div class="">
                         <a href="home.php">
-                            <img src="./assets/img/Logo_Leal Comunicacao 2023.png" alt="Logo_Leal Comunicacao 2023">
+                            <img src="./assets/img/Logo_Leal.png" alt="Logo_Leal Comunicacao 2023">
                         </a>
                     </div>
                     <div class="mt-8 flex space-x-4 text-color1">
@@ -36,13 +36,13 @@
                     <h3 class="mb-6 text-sm font-semibold uppercase text-color1">Leal Comunicação<br> & Marketing</h3>
                     <ul class="text-color1">
                         <li class="mb-4">
-                            <a href="#" class=" hover:underline">Página Inicial</a>
+                            <a href="home.php" class=" hover:underline">Página Inicial</a>
                         </li>
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Quem Somos</a>
+                            <a href="#quemsomos" class="hover:underline">Quem Somos</a>
                         </li>
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Serviços</a>
+                            <a href="#services" class="hover:underline">Serviços</a>
                         </li>
                     </ul>
                 </div>

@@ -1,4 +1,4 @@
-<header class="fixed w-full mb-2 bg-white z-10">
+<header class="fixed w-full mb-2 bg-white z-10 shadow">
   <nav class="border-gray-200 py-2.5">
     <div class="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
       <a href="#" class="flex items-center justify-center">

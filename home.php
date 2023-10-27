@@ -10,10 +10,13 @@
 <body>
   <?php include './components/navbar.php' ?>
   <?php include './components/banner.php' ?>
+  <?php include './components/services.php' ?>
+  <?php include './components/quem-somos.php' ?>
+  <?php include './components/video.php' ?>
+  <?php include './components/home-contact.php' ?>
+  <?php include './components/footer.php' ?>
 
-
-  <script src="assets/js/dark_mode.js"></script>
-  <script src="assets/js/tw.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://unpkg.com/flowbite@1.4.1/dist/flowbite.js"></script>
   <script>
     $('a[href^="#"]').on('click', function(e) {

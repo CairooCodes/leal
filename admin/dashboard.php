@@ -15,7 +15,7 @@ $stmt = $pdo->prepare($sql);
 $stmt->execute([$user_id]);
 $user = $stmt->fetch();
 
-$leads = getLeads();
+$contacts = getContacts();
 $page = 'dash';
 ?>
 <!DOCTYPE html>
@@ -97,31 +97,29 @@ $page = 'dash';
             </tr>
           </thead>
           <tbody>
-            <?php foreach ($leads as $lead) { ?>
+            <?php foreach ($contacts as $contact) { ?>
               <tr class="bg-white border-b">
                 <td class="px-6 py-4 text-gray-900 whitespace-nowrap">
-                  <div class="text-base font-semibold"><?php echo $lead['name']; ?></div>
+                  <div class="text-base font-semibold"><?php echo $contact['name']; ?></div>
                 </td>
 
                 <td class="px-6 py-4 text-gray-900 whitespace-nowrap">
-                  <div class="text-base font-semibold"><?php echo $lead['email']; ?></div>
+                  <div class="text-base font-semibold"><?php echo $contact['email']; ?></div>
                 </td>
 
                 <td class="px-6 py-4 text-gray-900 whitespace-nowrap">
-                  <div class="text-base font-semibold"><?php echo $lead['whatsapp']; ?></div>
+                  <div class="text-base font-semibold"><?php echo $contact['whatsapp']; ?></div>
                 </td>
                 <td class="px-6 py-4">
-                  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded btnAbrirModal" data-parametro="<?php echo htmlspecialchars(json_encode($lead)); ?>">Ver mais</button>
+                  <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded btnAbrirModal" data-parametro="<?php echo htmlspecialchars(json_encode($contact)); ?>">Ver mais</button>
                 </td>
                 <td class="px-6 py-4">
-                  <a href="./controllers/delete_lead.php?id=<?php echo $lead['id']; ?>" type="button" class="font-medium text-red-600 hover:underline">Excluir</a>
+                  <a href="./controllers/delete_contact.php?id=<?php echo $contact['id']; ?>" type="button" class="font-medium text-red-600 hover:underline">Excluir</a>
                 </td>
               </tr>
             <?php } ?>
           </tbody>
         </table>
-        <?php include "./components/modal_view_lead.php";
-        ?>
       </div>
     </div>
   </div>

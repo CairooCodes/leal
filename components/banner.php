@@ -6,7 +6,7 @@
       <img src="./assets/img/Logo_Leal.png" alt="hero image" class="w-full lg:pt-10 pt-4">
     </div>
     <div>
-      <form action="./admin/controllers/add_lead.php" method="post" class="mr-auto lg:pl-8 lg:pt-16 place-self-center pt-8">
+      <form action="./admin/controllers/add_contact.php" method="post" class="mr-auto lg:pl-8 lg:pt-16 place-self-center pt-8">
         <h2 class="flex justify-center md:text-left text-md font-semibold text-gray-700 pb-4">Preencha abaixo para conversar com a nossa equipe de especialistas em Marketing Digital!</h2>
         <div>
           <label class="text-sm font-bold uppercase text-color1">

@@ -2,7 +2,7 @@
   <div>
     <div class="px-6">
       <a href="#" title="home">
-        <img class="w-full p-3" src="../assets/img/Logo_Leal Comunicacao 2023.png">
+        <img class="w-full p-3" src="../assets/img/Logo_Leal.png">
       </a>
     </div>
     <ul class="space-y-2 tracking-wide mt-2">
@@ -16,15 +16,6 @@
             <path d="M13 15a2 2 0 0 1 2-2h1a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-1Z" class="fill-current group-hover:text-sky-300"></path>
           </svg>
           <span class="-mr-1 font-medium">Dashboard</span>
-        </a>
-      </li>
-      <li>
-        <a href="leads.php" class="px-3 py-2 flex items-center space-x-3 rounded-md text-gray-800 group 
-        <?php if ($page == 'leads') {
-          echo 'bg-blue-800 text-white';
-          } ?>">
-          <i class="bi bi-list"></i>
-          <span class="group-hover:text-gray-700">Leads</span>
         </a>
       </li>
     </ul>

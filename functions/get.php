@@ -1,8 +1,8 @@
 <?php
-function getLeads()
+function getContacts()
 {
   global $pdo;
-  $stmt = $pdo->prepare("SELECT * FROM leads order by id desc");
+  $stmt = $pdo->prepare("SELECT * FROM contact order by id desc");
   $stmt->execute();
   return $stmt->fetchAll(PDO::FETCH_ASSOC);
 }

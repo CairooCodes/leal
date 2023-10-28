@@ -1,9 +1,9 @@
 <section class="bg-white" id="quemsomos">
-  <div class="max-w-screen-xl px-4 py-4 mx-auto lg:py-16 lg:px-6">
+  <div class="max-w-screen-xl px-4 py-4 mx-auto lg:py-8 lg:px-8">
     <div>
-      <h1 class="font-bold text-5xl text-color4 text-center px-2">MELHOR AGÊNCIA DE MARKETING DIGITAL EM TERESINA</h1>
+      <h1 class="font-bold text-3xl text-color4 text-center px-2">MELHOR AGÊNCIA DE MARKETING DIGITAL EM TERESINA</h1>
       <div class="flex justify-center items-center">
-        <div class="mt-16 w-3/4">
+        <div class="mt-4 w-3/4">
           <p class="text-color1 text-justify">
             São 12 anos de história!!!
             Durante a trajetória, o equilíbrio entre as dualidades da vida!!

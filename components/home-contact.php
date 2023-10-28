@@ -1,4 +1,4 @@
-<body class="bg-white">
+<section class="bg-white max-w-screen-xl px-4 py-4 mx-auto">
   <div class="container flex flex-col mx-auto bg-white">
     <div class="w-full draggable">
       <div class="container flex flex-col items-center gap-16 mx-auto my-32">
@@ -37,4 +37,4 @@
       </div>
     </div>
   </div>
-</body>  
+</section>

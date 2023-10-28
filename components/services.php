@@ -1,4 +1,4 @@
-<div class="flex justify-center space-x-10 lg:py-16 md:p-8 lg:p-10" id="services">
+<div class="flex justify-center space-x-10 lg:py-8 md:p-8 lg:p-10" id="services">
   <div class="grid grid-cols-1 lg:grid-cols-3">
     <div class="p-6 relative flex w-96 flex-col rounded-xl bg-white bg-clip-border text-gray-700 shadow-md">
       <img class="mb-5 rounded" src="./assets/img/Marketing-Digital.png" alt="Marketing-Digital">

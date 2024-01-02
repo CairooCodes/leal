@@ -6,7 +6,7 @@
 
   <!-- Meta SEO -->
   <meta name="title" content="Leal Comunicação & Marketing">
-  <meta name="description" content="Get started with a free and open-source landing page built with Tailwind CSS and the Flowbite component library.">
+  <meta name="description" content="LEALDADE É O PILAR QUE NOS MOVE!✨💜 captada pela nossa essência e conectada ao nosso propósito!">
   <meta name="author" content="Cairo Codes">
 
   <!-- Social media share -->

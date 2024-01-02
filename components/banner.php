@@ -2,7 +2,7 @@
   <div class="max-w-full px-4 lg:pt-12 pt-20 lg:grid grid-cols-3 max-w-screen-xl mx-auto">
     <div class="lg:py-20 px-2 fade-in-up col-span-2">
       <h2 class="lg:text-5xl text-5xl font-bold text-color1 pb-4 text-justify lg:text-left"> Criatividade. Alegria. Amor. Dedicação. Comunicação.</h2>
-      <p class="text-xl text-justify">A LEALDADE É O PILAR QUE NOS MOVE!✨💜 captada pela nossa essência e conectada ao nosso propósito tudo para sua empresa.</p>
+      <p class="text-xl text-justify">LEALDADE É O PILAR QUE NOS MOVE!✨💜 captada pela nossa essência e conectada ao nosso propósito!</p>
       <img src="./assets/img/Logo_Leal.png" alt="hero image" class="w-full lg:pt-10 pt-4">
     </div>
     <div>

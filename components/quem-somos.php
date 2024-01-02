@@ -5,21 +5,23 @@
       <div class="mx-auto px-4">
         <div class="text-center pt-10">
           <p class="text-color1">
-            São 12 anos de história!!!
-            Durante a trajetória, o equilíbrio entre as dualidades da vida!!
-            Passos firmes, pausas uma vez ou outra! Desistir, jamais!!!!
+            A LEAL COMUNICAÇÃO NASCEU EM 12.07.11. DURANTE A TRAJETÓRIA, O EQUILÍBRIO ENTRE AS DUALIDADES DA VIDA.. PASSOS FIRMES, PAUSAS UMA VEZ OU OUTRA... DESISTIR, JAMAIS!!!!
             <br>
-            Assim nasce a Leal Comunicação, uma empresa focada no propósito da lealdade, da dignidade e de amar comunicar!✨
+            HOJE, TEMOS UM PROPÓSITO FINCADO NA LEALDADE, ÉTICA E NA DIGNIDADE DE COMUNICAR E AMAR!✨
             <br>
-            Tudo em nós pulsa🎯
+            TUDO EM NÓS PULSA🎯
             <br>
-            Criatividade. Alegria. Amor. Dedicação. Comunicação.
+            CRIATIVIDADE. ALEGRIA. AMOR. DEDICAÇÃO. COMUNICAÇÃO.
             <br>
-            Apresentamos a vocês, nossa nova marca!!!✨💜 captada pela nossa essência e conectada ao nosso propósito!!!
+            APRESENTAMOS A VOCÊS, NOSSO SITE!!! ✨💜 DAÍ VOCÊ CONSEGUE SENTIR NOSSA ESSÊNCIA? AINDA NÃO?! POIS... QUE TAL MARCAMOS UM CAFÉ AQUI NA AGÊNCIA? VOCÊS SERÃO MUITO BEM VINDOS!!!
           </p>
           <br>
           <p class="text-color1">
-            Só com a Leal Comunicação & Marketing, a <span class="font-bold text-color1">Melhor Agência de Marketing Digital em Teresina</span> você tem acesso aos melhores serviços e soluções do marketing digital, para poder ajudar com todos os objetivos que você tem para sua empresa, sejam eles de crescimento, expansão ou divulgação.
+            <span class="font-bold text-color1">Só com a Leal Comunicação & Marketing</span>, a Melhor Agência de Marketing Digital em Teresina você tem acesso aos melhores serviços e soluções do marketing digital, para poder ajudar com todos os objetivos que você tem para sua empresa, sejam eles de crescimento, expansão ou divulgação.
+
+          </p>
+          <p class="text-color1">
+            Busca uma agência 360 graus? Pois estacione aqui conosco! Somos o que você procura!
           </p>
         </div>
         <div class="w-full hidden">

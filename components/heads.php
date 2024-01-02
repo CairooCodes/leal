@@ -12,9 +12,9 @@
   <!-- Social media share -->
   <meta property="og:title" content="Leal Comunicação & Marketing">
   <meta property="og:site_name" content="">
-  <meta property="og:url" content="http://br220.teste.website/~cairod86/leal/">
+  <meta property="og:url" content="http://lealcomunicacao.com.br/">
   <meta property="og:description" content="">
-  <meta property="og:image" content="http://br220.teste.website/~cairod86/leal/assets/img/Logo_Leal.png">
+  <meta property="og:image" content="http://lealcomunicacao.com.br/assets/img/Logo_Leal.png">
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/icon.png">
